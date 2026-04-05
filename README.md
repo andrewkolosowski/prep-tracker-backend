@@ -17,7 +17,7 @@
 
 ## Deploy API
 
-1. Deploy Cloud Run Function (run from root of directory)
+1. Deploy Cloud Run Function (run from root of repo)
   ```bash
   gcloud run deploy prep-tracker-api \
     --source . \
