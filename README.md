@@ -32,7 +32,7 @@
     --region us-central1 \
     --member="user:someone@example.com" \
     --role="roles/run.invoker"
-    ```
+  ```
 
 ## Test calling the API yourself
 
